@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/meatRoll/js-parser-practice/issues"
   },
-  "homepage": "https://github.com/meatRoll/js-parser-practice#readme"
+  "homepage": "https://github.com/meatRoll/js-parser-practice#readme",
+  "dependencies": {
+    "acorn": "^8.2.4"
+  }
 }
